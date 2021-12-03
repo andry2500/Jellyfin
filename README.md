@@ -11,25 +11,25 @@ To use the JellySkin theme copy the line below into "Dashboard -> General -> Cus
 Latest/Specific Version:
   
 ```css
-  @import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin@latest/default.css");
+  @import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin@latest/default.css");
 ```
 
 Auto Update(Slower update time):
   
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/default.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/default.css");
 ```
 To use Logos like the images given below use:
 Latest/Specific Version:
   
 ```css
-  @import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin@latest/addons/Logo.css");
+  @import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin@latest/addons/Logo.css");
 ```
 
 Auto Update(Slower update time):
   
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/addons/Logo.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/addons/Logo.css");
 ```
   
 <h3> You can also use Jellyfin-Skin-Manager-Plugin : https://github.com/danieladov/jellyfin-plugin-skin-manager
@@ -39,22 +39,22 @@ Auto Update(Slower update time):
 In JellySkin 11 I have added a transparency gradient like CTalvio's Themes and just like his skin's have a performance issue on some older devices because of this I have created that remove all the transparency gradient in the skin.
   
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/addons/imp-per.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/addons/imp-per.css");
 ```
 
 <br>
 <h3>If you want to display your posters to be compact use the following line with default css</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/addons/compact-poster.css");
+@import url("https://cdn.jsdelivr.net/gh/prayag17/andry2500/Jellyfin/compact-poster.css");
 ```
 
 To use different gradient for your buttons I have added few different gradients you can choose or you can create your own (check the steps given bellow), the default gradient used is jellyfin's default logo gradient,using this alone will only skin the button colors and I know the names for this are very funny:
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/addons/Gradients/seaGradient.css");
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/addons/Gradients/sunsetGradient.css");
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/addons/Gradients/mauveGradient.css");
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/addons/Gradients/nightSkyGradient.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/addons/Gradients/seaGradient.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/addons/Gradients/sunsetGradient.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/addons/Gradients/mauveGradient.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/addons/Gradients/nightSkyGradient.css");
 ```
 <br>
 Using custom own Gradient or color
@@ -81,44 +81,44 @@ Now, to use your own Gradient (to get great button or any gradient go to https:/
 Add the follwing line to custom CSS with the default css file-
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin/addons/progress-bar.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/addons/progress-bar.css");
 ```
 
 <h3>Here are some images:</h3>
 
 <h5>Login Page</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/login.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/login.jpg">
 
 <h5>Home screen:</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Home.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Home.jpg">
 
 <h5>Library View</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Movies.jpg">
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/TV%20Shows.jpg">
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Collections.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Movies.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/TV%20Shows.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Collections.jpg">
 
 <h5>Title screen:</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Title%20Page-Movie.jpg">
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Title%20Page-TV.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Title%20Page-Movie.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Title%20Page-TV.jpg">
 
 <h5>TV Shows Season Episode list:</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Ep-list.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Ep-list.jpg">
 
 <h5>Settings</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Settings.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Settings.jpg">
 
 <h5>Dashboard</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Dashboard.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Dashboard.jpg">
 
 <h5>Plugins</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Plugins.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Plugins.jpg">
 
 
 <h5>Dialogs</h5>
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Menu.jpg">
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Dialog-1.jpg">
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Dialog-2.jpg">
-<img src="https://cdn.jsdelivr.net/gh/prayag17/JellySkin/img/Dialog-3.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Menu.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Dialog-1.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Dialog-2.jpg">
+<img src="https://cdn.jsdelivr.net/gh/andry2500/Jellyfin/img/Dialog-3.jpg">
 <br>
 <br>
 
